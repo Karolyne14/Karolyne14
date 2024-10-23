@@ -1,16 +1,20 @@
-## Hi there 👋
+## Boas vindas ao meu perfil !🌳 👋
 
-<!--
-**Karolyne14/Karolyne14** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Karolyne Vaz 
+- Sou professora de Ciências e Biologia
+- Neste ano (2024) tornei-me professora de tecnologia e programação.
+- Utilizo esse espaço para a minha organização e para compartilhar meus projetos.
 
-Here are some ideas to get you started:
+**Você pode entrar em contato comigo 📫**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+karolyne@prof.educacao.sp.gov.br 
+
+Blog: https://boaspraticakaroly.blogspot.com/
+
+Perfil scratch: @Professora_Karolyne
+
+Linkedln: https://www.linkedin.com/in/karolynev14/
+
+![](https://media1.tenor.com/m/4Qg6EoHCpeoAAAAC/school-college.gif)
+
+> Escrito por **Profª Karol**
